@@ -12,4 +12,4 @@ In this project, I created a routing-app in React JS, which includes:
 - Working with **Protected Routes**.
 - Extreme code refactoring and code optimization.
  
-I used these concepts to implement an end-to-end **[movie management application](https://github.com/Ubaid45/Mastering_ReactJS.git)** which is deployed **[here](https://desolate-headland-28492.herokuapp.com/movies)**.
+I used these concepts to implement an end-to-end **[movie management application](https://github.com/Ubaid45/ReactJS_movie-management)** which is deployed **[here](https://desolate-headland-28492.herokuapp.com/movies)**.
